@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Fullscreen",
+    "version": "0.0.1",
+    "description": "fullscreen",
+    "permissions": ["activeTab"],
+    "browser_action":{},
+    "background":
+    {
+        "scripts": ["main.js"],
+        "persistent": false
+    }
+}
