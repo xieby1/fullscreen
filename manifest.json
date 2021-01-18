@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
     "name": "Fullscreen",
-    "version": "0.0.1",
-    "description": "fullscreen",
+    "version": "0.0.2",
+    "description": "Fullscreen extension for device without keyboard",
     "permissions": ["activeTab"],
     "browser_action":{},
     "background":
