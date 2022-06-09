@@ -17,11 +17,11 @@
 
 ### Support Test
 
-|                         | Chrome | Kiwi      | Yandex  |
-| ----------------------- | ------ | --------- | ------- |
-| Platform                | Linux  | Android   | Android |
-| Ver.                    | 87     | Git201216 | 20.11.5 |
-| Web Page                | ✓      | ✓         | ✓       |
-| Web App (Draw.io)       | ✓      | ✓         | ✓       |
-| Web Slide (reveal.js)   | ✓      | ✓         | ✓       |
-| Local Slide (reveal.js) | ✓      | x         | ✓       |
+|                         | Chrome | Kiwi    | Yandex  |
+|-------------------------|--------|---------|---------|
+| Platform                | Linux  | Android | Android |
+| Ver.                    | 102    | 101     | 20.11.5 |
+| Web Page                | ✓      | ✓       | ✓       |
+| Web App (Draw.io)       | ✓      | ✓       | ✓       |
+| Web Slide (reveal.js)   | ✓      | ✓       | ✓       |
+| Local Slide (reveal.js) | ✓      | x       | ✓       |
