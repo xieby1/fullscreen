@@ -1,7 +1,7 @@
 (function() {
     var elem = document.documentElement;
     var rfs = 
-           elem.requestFullScreen
+           elem.requestFullscreen
         || elem.webkitRequestFullScreen
         || elem.mozRequestFullScreen
         || elem.msRequestFullScreen;
