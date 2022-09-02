@@ -4,6 +4,10 @@
 
 **Kiwi Browser, Yandex Browser, and other chrome-compatible browsers**
 
+### Install from Chrome Web Store
+
+* [Chrome Web Store: Fullscreen](https://chrome.google.com/webstore/detail/fullscreen/lbpgkagpackldbkfookmmdpfaolnoged)
+
 ### Install from source code
 
 * Download and unzip source code
