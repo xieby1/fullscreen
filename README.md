@@ -4,6 +4,12 @@
 
 **Kiwi Browser, Yandex Browser, and other chrome-compatible browsers**
 
+## Usage
+You can toggle fullscreen mode by
+* click extension icon
+* using keyboard combination Alt + M
+
+
 ### Install from Chrome Web Store
 
 * [Chrome Web Store: Fullscreen](https://chrome.google.com/webstore/detail/fullscreen/lbpgkagpackldbkfookmmdpfaolnoged)
