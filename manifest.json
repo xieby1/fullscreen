@@ -3,10 +3,35 @@
     "name": "Fullscreen",
     "version": "0.0.3",
     "description": "Fullscreen extension for device without keyboard",
-    "permissions": ["activeTab", "scripting"],
+    "permissions": ["activeTab", "scripting", "tabs"],
     "action": {
         "default_title": "Click to fullscreen"
     },
+    "content_scripts": [
+        {
+            "matches": [
+                "file://*/*",
+                "http://*/*",
+                "https://*/*"
+            ],
+            "js": [
+                "init.js"
+            ],
+            "run_at": "document_start",
+            "all_frames": true
+        }
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": [
+                "inpage.js"
+            ],
+            "matches": [
+                "https://*/*",
+                "http://*/*"
+            ]
+        }
+    ],
     "background":
     {
         "service_worker": "main.js"
